@@ -1,0 +1,5 @@
+package com.hotel.booking.classes;
+
+public class Hotel {
+
+}
