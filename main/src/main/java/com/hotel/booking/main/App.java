@@ -1,13 +1,22 @@
 package com.hotel.booking.main;
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+import com.hotel.booking.classes.Customer;
+import com.hotel.booking.classes.Hotel;
+
+public class App {
+    public static void main( String[] args ) {
+        Hotel hotel1 = new Hotel("Hotel 1", "Chicago", 5);
+        Customer andre = new Customer("Andre", 25);
+        Customer brad = new Customer("Brad", 33);
+        Customer carly = new Customer("Carly", 22);
+        Customer derek = new Customer("Derek", 40);
+        Customer eunice = new Customer("Eunice", 36);
+        hotel1.addCustomer(andre);
+        hotel1.addCustomer(brad);
+        hotel1.addCustomer(carly);
+        hotel1.addCustomer(derek);
+        hotel1.addCustomer(eunice);
+        Customer frank = new Customer("Frank", 28);
+        hotel1.addCustomer(frank);
     }
 }
