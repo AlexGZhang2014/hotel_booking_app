@@ -4,16 +4,28 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Hotel {
+	private Integer hotelId;
 	private String name;
 	private String location;
 	private Integer availableRooms;
 	private List<Customer> customers;
 	
+	private static Integer count = 0;
+	
 	public Hotel(String name, String location, Integer availableRooms) {
+		this.hotelId = ++Hotel.count;
 		this.name = name;
 		this.location = location;
 		this.availableRooms = availableRooms;
 		this.customers = new ArrayList<Customer>();
+	}
+	
+	public Integer getHotelId() {
+		return hotelId;
+	}
+	
+	public void setHotelId(Integer hotelId) {
+		this.hotelId = hotelId;
 	}
 	
 	public String getName() {
