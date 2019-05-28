@@ -2463,3 +2463,104 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2019-05-27 23:22:06,146 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
 2019-05-27 23:22:06,146 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-05-27 23:22:06,146 [Worker-67: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 14:50:36,509 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-28 14:52:19,592 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 14:52:19,592 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 14:52:19,595 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 14:52:19,596 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:06:06,628 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:06:06,628 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:06:06,630 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:06:06,631 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:06:16,795 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:06:16,795 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:06:16,796 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:06:16,796 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:12:39,635 [Worker-25: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:12:39,635 [Worker-25: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:12:39,637 [Worker-25: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:12:39,637 [Worker-25: Launching AppTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:12:57,383 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:12:57,383 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:12:57,384 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:12:57,384 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:13:36,815 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:13:36,816 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:13:36,817 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:13:36,817 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:22:08,819 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:22:08,819 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:22:08,821 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:22:08,821 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:25:34,239 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:25:34,239 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:25:34,241 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:25:34,241 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:25:55,158 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:25:55,158 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:25:55,160 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:25:55,160 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:26:04,407 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:26:04,407 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:26:04,412 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:26:04,412 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:26:11,675 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:26:11,675 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:26:11,677 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:26:11,677 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:26:48,473 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:26:48,473 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:26:48,474 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:26:48,474 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:27:04,966 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:27:04,966 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:27:04,968 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:27:04,968 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:32:25,626 [Worker-33: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.hotel.booking:main:0.0.1-SNAPSHOT @ /Users/alexzhang/Documents/hotel_booking_app/main/pom.xml.
+2019-05-28 15:32:26,157 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13-beta-1/junit-4.13-beta-1.pom
+2019-05-28 15:32:26,229 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13-beta-1/junit-4.13-beta-1.pom
+2019-05-28 15:32:26,280 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13-beta-1/junit-4.13-beta-1.jar
+2019-05-28 15:32:26,494 [Worker-33: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13-beta-1/junit-4.13-beta-1.jar
+2019-05-28 15:32:26,714 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:32:26,714 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:32:26,716 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:32:26,717 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:32:27,807 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.13-beta-1/junit-4.13-beta-1-sources.jar
+2019-05-28 15:32:27,981 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.13-beta-1/junit-4.13-beta-1-sources.jar
+2019-05-28 15:32:28,013 [Worker-34: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.13-beta-1
+2019-05-28 15:32:28,350 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:32:28,351 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:32:28,352 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:32:28,352 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:34:28,596 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:34:28,596 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:34:28,598 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:34:28,598 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:35:48,992 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:35:48,992 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:35:48,993 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:35:48,993 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:36:03,104 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:36:03,104 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:36:03,105 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:36:03,106 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 15:52:19,199 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:52:19,199 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 15:52:19,200 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 15:52:19,201 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 16:02:29,181 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 16:02:29,181 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 16:02:29,182 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 16:02:29,182 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 16:02:49,046 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 16:02:49,046 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 16:02:49,048 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 16:02:49,048 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 16:04:18,307 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 16:04:18,307 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 16:04:18,309 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 16:04:18,309 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources
+2019-05-28 16:04:34,111 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 16:04:34,111 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/main/resources
+2019-05-28 16:04:34,112 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-05-28 16:04:34,112 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/alexzhang/Documents/hotel_booking_app/main/src/test/resources

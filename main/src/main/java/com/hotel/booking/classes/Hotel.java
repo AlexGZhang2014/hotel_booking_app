@@ -56,13 +56,15 @@ public class Hotel {
 		return customers;
 	}
 	
-	public void addCustomer(Customer customer) {
+	public String addCustomer(Customer customer) {
 		if (this.availableRooms > 0) {
 			this.customers.add(customer);
 			this.setAvailableRooms(availableRooms - 1);
-			System.out.println(customer.getName() + ", your hotel room has been successfully booked");
+			System.out.println(customer.getName() + ", your hotel room has been successfully booked.");
+			return customer.getName() + ", your hotel room has been successfully booked.";
 		} else {
 			System.out.println("Sorry " + customer.getName() + ", but this hotel is all booked.");
+			return "Sorry " + customer.getName() + ", but this hotel is all booked.";
 		}
 	}
 }
