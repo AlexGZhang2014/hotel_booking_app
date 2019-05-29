@@ -1,6 +1,7 @@
 package com.hotel.booking.classes;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 public class Hotel {
@@ -8,7 +9,7 @@ public class Hotel {
 	private String name;
 	private String location;
 	private Integer availableRooms;
-	private List<Customer> customers;
+	private List<Booking> bookings;
 	
 	private static Integer count = 0;
 	
@@ -17,7 +18,7 @@ public class Hotel {
 		this.name = name;
 		this.location = location;
 		this.availableRooms = availableRooms;
-		this.customers = new ArrayList<Customer>();
+		this.bookings = new ArrayList<Booking>();
 	}
 	
 	public Integer getHotelId() {
@@ -52,13 +53,14 @@ public class Hotel {
 		this.availableRooms = availableRooms;
 	}
 	
-	public List<Customer> getCustomers() {
-		return customers;
+	public List<Booking> getBookings() {
+		return bookings;
 	}
 	
-	public String addCustomer(Customer customer) {
+	public String bookCustomer(Customer customer) {
 		if (this.availableRooms > 0) {
-			this.customers.add(customer);
+			Booking booking = new Booking(this, customer, new Date(), new Date());
+			this.bookings.add(booking);
 			this.setAvailableRooms(availableRooms - 1);
 			System.out.println(customer.getName() + ", your hotel room has been successfully booked.");
 			return customer.getName() + ", your hotel room has been successfully booked.";

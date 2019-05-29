@@ -1,9 +1,12 @@
 package com.hotel.booking.classes;
 
+import java.util.List;
+
 public class Customer {
 	private Integer customerId;
 	private String name;
 	private Integer age;
+	private List<Booking> bookings;
 	
 	private static Integer count = 0;
 	
@@ -35,5 +38,13 @@ public class Customer {
 	
 	public void setAge(Integer age) {
 		this.age = age;
+	}
+	
+	public List<Booking> getBookings() {
+		return bookings;
+	}
+	
+	public void addBooking(Booking booking) {
+		this.bookings.add(booking);
 	}
 }
